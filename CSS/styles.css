@@ -1,0 +1,44 @@
+body {
+  font-family: fantasy;
+  text-align: left;
+  background-color: teal;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: left;
+}
+
+.flashy {
+  color: orange;
+  font-style: italic;
+}
+
+.best {
+  color: orange;
+  font-style: italic;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+img {
+  height: 400px;
+  align-items: flex-start;
+}
+
+a {
+  color: white;
+  font-style: normal;
+  font-family: times;
+}
+
+ul {
+  list-style: none;
+}
